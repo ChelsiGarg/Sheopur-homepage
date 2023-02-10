@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+#hero{
+    background-image: url("sheopur.jpg");
+    background-size: cover;
+    color: #FFFFFF;
+    padding: 120px 0 130px 0;
+}
+
+.txt-bold{
+    font-weight: 700;
+}
+
+h1{
+    margin: 120px auto 20px;
+    text-shadow: 0px 0px 5px black;
+}
+
+#activity{
+    padding-top: 2px;
+    background: #F1FAEE;
+    color: #1D3557;
+}
+
+#activities{
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-around;;
+}
+
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+#card{
+    margin: 50px auto 50px;
+    display: flex;
+    box-shadow: 0px 6px 0px #1D3557;
+    background: #A8DADC;
+    border-radius: 10px;
+    width: 350px;
+    height: 285px;
+}
+
+.chelsi{
+    background: url("chelsi.jpg");
+    background-size: cover;
+    border-radius: 10px;
+    width: 380px;
+    height: 240px;
+    margin: 23px 13px;
+}
+
+.desc{
+    margin: 35px auto;
+}
